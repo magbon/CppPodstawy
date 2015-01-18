@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1421513318 source:d:\acer\c++podstaw\quiz\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1421510205 d:\acer\c++podstaw\quiz\pytanie.h
+	<iostream>
+
+1421516697 source:d:\acer\c++podstaw\quiz\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1421568513 source:d:\acer\c++podstaw\event\main.cpp
+	<iostream>
+	"event.h"
+
+1421568944 d:\acer\c++podstaw\event\event.h
+	<iostream>
+
+1421568837 source:d:\acer\c++podstaw\event\event.cpp
+	<iostream>
+	"event.h"
+

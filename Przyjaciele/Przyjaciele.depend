@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1421572193 source:d:\acer\c++podstaw\przyjaciele\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1421573343 d:\acer\c++podstaw\przyjaciele\przyjaciele.h
+	<iostream>
+
+1421572748 source:d:\acer\c++podstaw\przyjaciele\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+
