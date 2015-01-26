@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1422230849 source:d:\acer\c++podstaw\zad9\a.cpp
+	"a.h"
+
+1422230792 d:\acer\c++podstaw\zad9\a.h
+
+1422230908 source:d:\acer\c++podstaw\zad9\main.cpp
+	<iostream>
+	"a.h"
+

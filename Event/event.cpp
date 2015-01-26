@@ -34,7 +34,12 @@ Event::Event(string n,int d,int m,int y,int h,int mins){
    hour = h;
    minutes = mins;
 }
+Event::Event(int a){
+    aname = a;
 
+}
+Event::Event (){
+}
 Event::~Event()
 {
     cout << endl << "To ja destruktor sie nazywam";

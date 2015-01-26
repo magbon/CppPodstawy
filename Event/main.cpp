@@ -9,6 +9,9 @@ int main()
     Event w1("Apokalipsa zombie"); // brakujace zostana zastapione domyslnymi
     w1.show();
 
-
+   // Event a = Event();
+    // Event a = new Event(4); konwersja blad
+    Event a(4); // ok
+    //  Event a; // redeklaracja
     return 0;
 }
