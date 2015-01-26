@@ -1,0 +1,13 @@
+#pragma once
+#include "A.h"
+
+class B : public A
+{
+    public:
+    B();
+    virtual ~B();
+
+    private:
+    int poleB;
+};
+
